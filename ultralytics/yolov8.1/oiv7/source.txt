@@ -1,0 +1,2 @@
+https://storage.googleapis.com/openimages/2018_04/bbox_labels_600_hierarchy.json
+https://storage.googleapis.com/openimages/v7/class-descriptions-boxable.csv
