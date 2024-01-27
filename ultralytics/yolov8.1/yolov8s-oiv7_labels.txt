@@ -1,8 +1,8 @@
 Accordion
-Adhesive
+Adhesive tape
 Aircraft
 Airplane
-Alarm
+Alarm clock
 Alpaca
 Ambulance
 Animal
@@ -11,12 +11,12 @@ Antelope
 Apple
 Armadillo
 Artichoke
-Auto
+Auto part
 Axe
 Backpack
 Bagel
-Baked
-Balance
+Baked goods
+Balance beam
 Ball
 Balloon
 Banana
@@ -24,11 +24,11 @@ Band-aid
 Banjo
 Barge
 Barrel
-Baseball
-Baseball
-Bat
-Bathroom
-Bathroom
+Baseball bat
+Baseball glove
+Bat (Animal)
+Bathroom accessory
+Bathroom cabinet
 Bathtub
 Beaker
 Bear
@@ -37,37 +37,37 @@ Bee
 Beehive
 Beer
 Beetle
-Bell
+Bell pepper
 Belt
 Bench
 Bicycle
-Bicycle
-Bicycle
+Bicycle helmet
+Bicycle wheel
 Bidet
 Billboard
-Billiard
+Billiard table
 Binoculars
 Bird
 Blender
-Blue
+Blue jay
 Boat
 Bomb
 Book
 Bookcase
 Boot
 Bottle
-Bottle
-Bow
+Bottle opener
+Bow and arrow
 Bowl
-Bowling
+Bowling equipment
 Box
 Boy
 Brassiere
 Bread
 Briefcase
 Broccoli
-Bronze
-Brown
+Bronze sculpture
+Brown bear
 Building
 Bull
 Burrito
@@ -77,11 +77,11 @@ Butterfly
 Cabbage
 Cabinetry
 Cake
-Cake
+Cake stand
 Calculator
 Camel
 Camera
-Can
+Can opener
 Canary
 Candle
 Candy
@@ -92,54 +92,54 @@ Car
 Carnivore
 Carrot
 Cart
-Cassette
+Cassette deck
 Castle
 Cat
-Cat
+Cat furniture
 Caterpillar
 Cattle
-Ceiling
+Ceiling fan
 Cello
 Centipede
 Chainsaw
 Chair
 Cheese
 Cheetah
-Chest
+Chest of drawers
 Chicken
 Chime
 Chisel
 Chopsticks
-Christmas
+Christmas tree
 Clock
 Closet
 Clothing
 Coat
 Cocktail
-Cocktail
+Cocktail shaker
 Coconut
 Coffee
-Coffee
-Coffee
+Coffee cup
+Coffee table
 Coffeemaker
 Coin
-Common
-Common
-Computer
-Computer
-Computer
+Common fig
+Common sunflower
+Computer keyboard
+Computer monitor
+Computer mouse
 Container
-Convenience
+Convenience store
 Cookie
-Cooking
-Corded
+Cooking spray
+Corded phone
 Cosmetics
 Couch
 Countertop
-Cowboy
+Cowboy hat
 Crab
 Cream
-Cricket
+Cricket ball
 Crocodile
 Croissant
 Crown
@@ -147,48 +147,48 @@ Crutch
 Cucumber
 Cupboard
 Curtain
-Cutting
+Cutting board
 Dagger
-Dairy
+Dairy Product
 Deer
 Desk
 Dessert
 Diaper
 Dice
-Digital
+Digital clock
 Dinosaur
 Dishwasher
 Dog
-Dog
+Dog bed
 Doll
 Dolphin
 Door
-Door
+Door handle
 Doughnut
 Dragonfly
 Drawer
 Dress
-Drill
+Drill (Tool)
 Drink
-Drinking
+Drinking straw
 Drum
 Duck
 Dumbbell
 Eagle
 Earrings
-Egg
+Egg (Food)
 Elephant
 Envelope
 Eraser
-Face
-Facial
+Face powder
+Facial tissue holder
 Falcon
-Fashion
-Fast
+Fashion accessory
+Fast food
 Fax
 Fedora
-Filing
-Fire
+Filing cabinet
+Fire hydrant
 Fireplace
 Fish
 Flag
@@ -196,23 +196,23 @@ Flashlight
 Flower
 Flowerpot
 Flute
-Flying
+Flying disc
 Food
-Food
+Food processor
 Football
-Football
+Football helmet
 Footwear
 Fork
 Fountain
 Fox
-French
-French
+French fries
+French horn
 Frog
 Fruit
-Frying
+Frying pan
 Furniture
-Garden
-Gas
+Garden Asparagus
+Gas stove
 Giraffe
 Girl
 Glasses
@@ -220,8 +220,8 @@ Glove
 Goat
 Goggles
 Goldfish
-Golf
-Golf
+Golf ball
+Golf cart
 Gondola
 Goose
 Grape
@@ -229,15 +229,15 @@ Grapefruit
 Grinder
 Guacamole
 Guitar
-Hair
-Hair
+Hair dryer
+Hair spray
 Hamburger
 Hammer
 Hamster
-Hand
+Hand dryer
 Handbag
 Handgun
-Harbor
+Harbor seal
 Harmonica
 Harp
 Harpsichord
@@ -247,51 +247,51 @@ Heater
 Hedgehog
 Helicopter
 Helmet
-High
-Hiking
+High heels
+Hiking equipment
 Hippopotamus
-Home
+Home appliance
 Honeycomb
-Horizontal
+Horizontal bar
 Horse
-Hot
+Hot dog
 House
 Houseplant
-Human
-Human
-Human
-Human
-Human
-Human
-Human
-Human
-Human
-Human
-Human
-Human
-Human
+Human arm
+Human beard
+Human body
+Human ear
+Human eye
+Human face
+Human foot
+Human hair
+Human hand
+Human head
+Human leg
+Human mouth
+Human nose
 Humidifier
-Ice
-Indoor
-Infant
+Ice cream
+Indoor rower
+Infant bed
 Insect
 Invertebrate
 Ipod
 Isopod
 Jacket
 Jacuzzi
-Jaguar
+Jaguar (Animal)
 Jeans
 Jellyfish
-Jet
+Jet ski
 Jug
 Juice
 Kangaroo
 Kettle
-Kitchen
-Kitchen
-Kitchen
-Kitchen
+Kitchen & dining room table
+Kitchen appliance
+Kitchen knife
+Kitchen utensil
 Kitchenware
 Kite
 Knife
@@ -300,14 +300,14 @@ Ladder
 Ladle
 Ladybug
 Lamp
-Land
+Land vehicle
 Lantern
 Laptop
-Lavender
+Lavender (Plant)
 Lemon
 Leopard
-Light
-Light
+Light bulb
+Light switch
 Lighthouse
 Lily
 Limousine
@@ -316,7 +316,7 @@ Lipstick
 Lizard
 Lobster
 Loveseat
-Luggage
+Luggage and bags
 Lynx
 Magpie
 Mammal
@@ -324,112 +324,112 @@ Man
 Mango
 Maple
 Maracas
-Marine
-Marine
-Measuring
-Mechanical
-Medical
+Marine invertebrates
+Marine mammal
+Measuring cup
+Mechanical fan
+Medical equipment
 Microphone
-Microwave
+Microwave oven
 Milk
 Miniskirt
 Mirror
 Missile
 Mixer
-Mixing
-Mobile
+Mixing bowl
+Mobile phone
 Monkey
-Moths
+Moths and butterflies
 Motorcycle
 Mouse
 Muffin
 Mug
 Mule
 Mushroom
-Musical
-Musical
-Nail
+Musical instrument
+Musical keyboard
+Nail (Construction)
 Necklace
 Nightstand
 Oboe
-Office
-Office
+Office building
+Office supplies
 Orange
-Organ
+Organ (Musical Instrument)
 Ostrich
 Otter
 Oven
 Owl
 Oyster
 Paddle
-Palm
+Palm tree
 Pancake
 Panda
-Paper
-Paper
+Paper cutter
+Paper towel
 Parachute
-Parking
+Parking meter
 Parrot
 Pasta
 Pastry
 Peach
 Pear
 Pen
-Pencil
-Pencil
+Pencil case
+Pencil sharpener
 Penguin
 Perfume
 Person
-Personal
-Personal
+Personal care
+Personal flotation device
 Piano
-Picnic
-Picture
+Picnic basket
+Picture frame
 Pig
 Pillow
 Pineapple
-Pitcher
+Pitcher (Container)
 Pizza
-Pizza
+Pizza cutter
 Plant
-Plastic
+Plastic bag
 Plate
 Platter
-Plumbing
-Polar
+Plumbing fixture
+Polar bear
 Pomegranate
 Popcorn
 Porch
 Porcupine
 Poster
 Potato
-Power
-Pressure
+Power plugs and sockets
+Pressure cooker
 Pretzel
 Printer
 Pumpkin
-Punching
+Punching bag
 Rabbit
 Raccoon
 Racket
 Radish
-Ratchet
+Ratchet (Device)
 Raven
-Rays
-Red
+Rays and skates
+Red panda
 Refrigerator
-Remote
+Remote control
 Reptile
 Rhinoceros
 Rifle
-Ring
+Ring binder
 Rocket
-Roller
+Roller skates
 Rose
-Rugby
+Rugby ball
 Ruler
 Salad
-Salt
+Salt and pepper shakers
 Sandal
 Sandwich
 Saucer
@@ -441,14 +441,14 @@ Scoreboard
 Scorpion
 Screwdriver
 Sculpture
-Sea
-Sea
+Sea lion
+Sea turtle
 Seafood
 Seahorse
-Seat
+Seat belt
 Segway
-Serving
-Sewing
+Serving tray
+Sewing machine
 Shark
 Sheep
 Shelf
@@ -465,7 +465,7 @@ Skirt
 Skull
 Skunk
 Skyscraper
-Slow
+Slow cooker
 Snack
 Snail
 Snake
@@ -473,48 +473,48 @@ Snowboard
 Snowman
 Snowmobile
 Snowplow
-Soap
+Soap dispenser
 Sock
-Sofa
+Sofa bed
 Sombrero
 Sparrow
 Spatula
-Spice
+Spice rack
 Spider
 Spoon
-Sports
-Sports
-Squash
+Sports equipment
+Sports uniform
+Squash (Plant)
 Squid
 Squirrel
 Stairs
 Stapler
 Starfish
-Stationary
+Stationary bicycle
 Stethoscope
 Stool
-Stop
+Stop sign
 Strawberry
-Street
+Street light
 Stretcher
-Studio
+Studio couch
 Submarine
-Submarine
+Submarine sandwich
 Suit
 Suitcase
-Sun
+Sun hat
 Sunglasses
 Surfboard
 Sushi
 Swan
-Swim
-Swimming
+Swim cap
+Swimming pool
 Swimwear
 Sword
 Syringe
 Table
-Table
-Tablet
+Table tennis racket
+Tablet computer
 Tableware
 Taco
 Tank
@@ -523,21 +523,21 @@ Tart
 Taxi
 Tea
 Teapot
-Teddy
+Teddy bear
 Telephone
 Television
-Tennis
-Tennis
+Tennis ball
+Tennis racket
 Tent
 Tiara
 Tick
 Tie
 Tiger
-Tin
+Tin can
 Tire
 Toaster
 Toilet
-Toilet
+Toilet paper
 Tomato
 Tool
 Toothbrush
@@ -546,13 +546,13 @@ Tortoise
 Towel
 Tower
 Toy
-Traffic
-Traffic
+Traffic light
+Traffic sign
 Train
-Training
+Training bench
 Treadmill
 Tree
-Tree
+Tree house
 Tripod
 Trombone
 Trousers
@@ -566,15 +566,15 @@ Van
 Vase
 Vegetable
 Vehicle
-Vehicle
+Vehicle registration plate
 Violin
-Volleyball
+Volleyball (Ball)
 Waffle
-Waffle
-Wall
+Waffle iron
+Wall clock
 Wardrobe
-Washing
-Waste
+Washing machine
+Waste container
 Watch
 Watercraft
 Watermelon
@@ -586,14 +586,14 @@ Whisk
 Whiteboard
 Willow
 Window
-Window
+Window blind
 Wine
-Wine
-Wine
-Winter
+Wine glass
+Wine rack
+Winter melon
 Wok
 Woman
-Wood-burning
+Wood-burning stove
 Woodpecker
 Worm
 Wrench
