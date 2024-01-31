@@ -1,2 +1,6 @@
 *.pt
+*_saved_model
+calibration_image_sample_data_20x128x128x3_float32.npy
+yolov8[a-z].onnx
+yolov8[a-z]-oiv7.onnx
 
