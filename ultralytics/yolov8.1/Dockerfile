@@ -66,11 +66,11 @@ RUN python3 build_labels.py
 COPY build_onnx.py .
 RUN python3 build_onnx.py
 
-COPY build_openvino.py .
-RUN python3 build_openvino.py
-
 COPY build_edgetpu.py .
 RUN python3 build_edgetpu.py
+
+COPY build_openvino.py .
+RUN python3 build_openvino.py
 
 COPY LICENSE README.md yolov8/
 
