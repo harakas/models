@@ -1,6 +1,6 @@
 
 IMAGE_REPO ?= ghcr.io/harakas/models/yolov8.1
-TAG ?= 1.0
+TAG ?= 1.1
 
 all: build
 
@@ -12,5 +12,6 @@ push: build
 
 release: build
 	rm -rf dist && mkdir -p dist && cd dist && docker save $(IMAGE_REPO):$(TAG)|tar --to-stdout -xf - --wildcards '*/layer.tar'|tar xvf -
+	cd dist && rm -f yolov8.small.models.tar.gz && tar zcf yolov8.small.models.tar.gz LICENSE yolov8[ns]*320x320* labels*
 	gh release create yolov8.1-$(TAG) dist/*
 
