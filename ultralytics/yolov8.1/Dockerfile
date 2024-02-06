@@ -45,9 +45,8 @@ ADD https://github.com/ultralytics/assets/releases/download/v8.1.0/yolov8m.pt .
 ADD https://github.com/ultralytics/assets/releases/download/v8.1.0/yolov8n-oiv7.pt .
 ADD https://github.com/ultralytics/assets/releases/download/v8.1.0/yolov8s-oiv7.pt .
 ADD https://github.com/ultralytics/assets/releases/download/v8.1.0/yolov8m-oiv7.pt .
-# The "l" or "x" models take too much space so we ignore them here
-#ADD https://github.com/ultralytics/assets/releases/download/v8.1.0/yolov8l.pt .
-#ADD https://github.com/ultralytics/assets/releases/download/v8.1.0/yolov8l-oiv7.pt .
+ADD https://github.com/ultralytics/assets/releases/download/v8.1.0/yolov8l.pt .
+ADD https://github.com/ultralytics/assets/releases/download/v8.1.0/yolov8l-oiv7.pt .
 ADD https://github.com/ultralytics/assets/releases/download/v8.1.0/calibration_image_sample_data_20x128x128x3_float32.npy.zip .
 
 COPY coco-labels.txt .

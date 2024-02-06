@@ -8,11 +8,7 @@ target_path = 'yolov8/'
 
 frigate_labels = [
   'person',
-  'car',
-  'motorcycle',
-  'other_vehicle',
-  'cat',
-  'dog',
+  'vehicle',
   'animal',
   'bird',
   'other',
@@ -21,9 +17,13 @@ frigate_labels = [
 frigate_labels_set = set(frigate_labels)
 
 coco_remap = {
-  'bus': 'other_vehicle',
-  'train': 'other_vehicle',
-  'truck': 'car',
+  'car': 'vehicle',
+  'bus': 'vehicle',
+  'train': 'vehicle',
+  'truck': 'vehicle',
+  'motorcycle': 'vehicle',
+  'cat': 'animal',
+  'dog': 'animal',
   'horse': 'animal',
   'sheep': 'animal',
   'cow': 'animal',
@@ -37,8 +37,10 @@ with open(target_path + 'labels-frigate.txt', 'w') as f:
   for label in open('coco-labels.txt'):
     label = label.strip()
     if label in frigate_labels_set:
+      print(f"{label} -> {label}")
       f.write(label)
     else:
+      print(f"{label} -> {coco_remap.get(label, 'other')}")
       f.write(coco_remap.get(label, 'other'))
     f.write("\n")
 
@@ -70,17 +72,9 @@ traverse('', oiv7_struct)
 
 oiv7_groupings = [
   ('Person', 'person'),
-  ('Animal/Mammal/Carnivore/Cat', 'cat'),
-  ('Animal/Mammal/Carnivore/Dog', 'dog'),
   ('Animal/Bird', 'bird'),
   ('Animal', 'animal'),
-  ('Animal', 'animal'),
-  ('Vehicle/Land vehicle/Car', 'car'),
-  ('Vehicle/Land vehicle/Truck', 'car'),
-  ('Vehicle/Land vehicle/Ambulance', 'car'),
-  ('Vehicle/Land vehicle/Taxi', 'car'),
-  ('Vehicle/Land vehicle/Motorcycle', 'motorcycle'),
-  ('Vehicle/Land vehicle', 'other_vehicle'),
+  ('Vehicle/Land vehicle', 'vehicle'),
 ]
 
 with open(target_path + 'labels-oiv7-frigate.txt', 'w') as f:
@@ -90,7 +84,8 @@ with open(target_path + 'labels-oiv7-frigate.txt', 'w') as f:
     full_label = oiv7_label2long[label]
     found = False
     for prefix, target in oiv7_groupings:
-      if full_label.startswith(prefix):
+      if full_label == prefix or full_label.startswith(prefix + '/'):
+        print(full_label + ' -> ' + target)
         f.write(target)
         found = True
         break

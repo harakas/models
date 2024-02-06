@@ -1,6 +1,6 @@
 
 IMAGE_REPO ?= ghcr.io/harakas/models/yolov8.1
-TAG ?= 1.1
+TAG ?= 1.2
 
 all: build
 
